@@ -1,4 +1,5 @@
 # PHP Datenverwaltung mit Serialisierung
+# Link: http://mohamadalhade.bplaced.net/htdocs/18_serialize/serialize1.php
 
 Eine einfache CRUD-Anwendung (Create, Read, Update, Delete) in PHP, die Daten in einer Textdatei mittels Serialisierung speichert. Ideal für Lernzwecke und kleine Projekte ohne Datenbank.
 
